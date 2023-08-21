@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name:       WPshop
- * Plugin URI:        https://wpshop.example.com
+ * Plugin URI:        https://wpshopapi.example.com
  * Description:       Simple cart.
  * Version:           1.0.0
  * Requires at least: 6.2
